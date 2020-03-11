@@ -1,0 +1,38 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "simple burger application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephLedbetter/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "joseph ledbetter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephLedbetter/burger/issues"
+  },
+  "homepage": "https://github.com/JosephLedbetter/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cli": "^1.0.1",
+    "exphbs": "^1.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "heroku": "^7.38.2",
+    "heroku-cli": "^7.0.9",
+    "method-override": "^3.0.0",
+    "mysql": "^2.17.1",
+    "path": "^0.12.7",
+    "sequelize": "^5.21.3",
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {}
+}

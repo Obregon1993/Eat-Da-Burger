@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Donald425@",
+      "database": "blogger",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "Donald425@",
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "r0ytwzzp2l3mzcdm",
+      "password": "jk2j613pu56eyfo7",
+      "database": "suht37xtggg8d0td",
+      "host": "blonze2d5mrbmcgf.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+      "port": 3306,
+      "dialect": "mysql"
+    }
+  }
+  
